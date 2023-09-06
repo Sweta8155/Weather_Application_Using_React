@@ -1,0 +1,16 @@
+.custom-card{
+    border: 2px solid #111010;
+  padding: 10px;
+  margin: 10px;
+  background-color: #82c8f3;
+}
+.my{
+    background-color: rgb(223, 208, 180);
+}
+.title{
+    background-color: rgb(135, 179, 181);
+}
+.error{
+    color: rgb(77, 41, 207);
+    font-size: 50px;
+}
